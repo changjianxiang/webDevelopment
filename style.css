@@ -1,3 +1,4 @@
+
 .card-bordered {
     border: 1px solid #ebebeb
 }
@@ -17,7 +18,7 @@
 }
 
 body {
-    background-color: #f9f9fa
+    background-color: #333
 }
 
 .card-header:first-child {
